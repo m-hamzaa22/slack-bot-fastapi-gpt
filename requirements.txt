@@ -1,0 +1,6 @@
+fastapi==0.103.1
+uvicorn==0.22.0
+openai==0.28
+python-docx==0.8.11
+pydantic==2.2.1
+httpx
