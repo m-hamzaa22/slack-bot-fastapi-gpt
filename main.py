@@ -13,8 +13,8 @@ app = FastAPI()
 logging.basicConfig(level=logging.INFO)
 
 # Environment variables (consider using a more secure way to manage these)
-SLACK_BOT_TOKEN = 'Your Bot Tokem'
-OPENAI_API_KEY = 'Your Open API key'
+SLACK_BOT_TOKEN = os.getenv('SLACK_BOT_TOKEN')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # Initialize OpenAI API key
 openai.api_key = OPENAI_API_KEY
