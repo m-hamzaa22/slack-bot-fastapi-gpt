@@ -91,4 +91,4 @@ Feel free to submit issues, suggestions, or pull requests.
 
 **Contact**
 
-For any questions, please contact [m.hamzaa1218@gmail.com].
+For any questions, please contact [m.hamzaa1218@hotmail.com].
